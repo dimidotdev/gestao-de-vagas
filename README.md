@@ -1,5 +1,5 @@
 ## Projeto de Gestão de Vagas de Emprego
-#####Projeto com intuito exclusivamente educacional, levando em consideração as melhores práticas de desenvolvimento de software.
+##### Projeto com intuito exclusivamente educacional, levando em consideração as melhores práticas de desenvolvimento de software.
 ---------------------------------------------------------------------------------------------------------
 ### Tecnologias
 #### Spring Boot, Spring Validator, Spring Web, Spring Data JPA, Lombok, Maven, Docker e PostgreSQL.
